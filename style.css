@@ -1,0 +1,22 @@
+body {
+    background: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+.box {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px #aaa;
+}
+
+input,
+button {
+    margin: 5px;
+    padding: 8px;
+}
